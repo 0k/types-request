@@ -19,7 +19,7 @@ export type coreHttpOpts = {
     method: httpMethod
     headers?: {}
     port?: number
-    data?: {}
+    data?: {} | string
     responseHeaders?: {[k: string]: any}
 }
 
