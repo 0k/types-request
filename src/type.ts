@@ -21,6 +21,7 @@ export type coreHttpOpts = {
     port?: number
     data?: {} | string
     responseHeaders?: {[k: string]: any}
+    timeout?: number
 }
 
 
