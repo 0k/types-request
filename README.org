@@ -2,12 +2,12 @@
 
 #+TITLE: Types definition and exceptions for requests
 
-* Adding =@0k.io/types-request= to your project
+* Adding =@0k/types-request= to your project
 
 From the root of your project:
 
 #+begin_src sh
-npm install --save @0k.io/types-request
+npm install --save @0k/types-request
 #+end_src
 
 Or better, as =types-request= is still in early release,
