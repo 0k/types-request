@@ -1,4 +1,4 @@
-NAME="@0k.io/types-request"
+NAME="@0k/types-request"
 DESCRIPTION="Common definitions for request interfaces"
 EMAIL="valentin.lab@kalysto.org"
 AUTHOR="Valentin LAB"
